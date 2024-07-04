@@ -1,0 +1,6 @@
+redux : 리덕스 관련 코드를 모두 몰아 넣을 곳
+config : 리덕스 설정 관련 파일 전부
+configStore : 중앙 스테이트 관리소 => 관련 설정 코드(.js)
+modules : 스테이트의 그룹! Todolist. [ex)Todo.js]
+
+
